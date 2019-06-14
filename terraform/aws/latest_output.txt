@@ -1,0 +1,6 @@
+a2_admin = admin
+a2_admin_password = b1e6246cdf6bb49caed853368e49303b
+a2_token = SWs9TFUyWQo63kvxOwYVBfjhCDg=
+a2_url = https://alan-a2.chef-demo.com
+chef_automate_public_ip = 54.191.222.166
+chef_automate_server_public_r53_dns = alan-a2.chef-demo.com
